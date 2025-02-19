@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.section-two {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.food__card {
+    display: inline-block;
+    width: 250px;
+    height: 400px;
+    margin: 2px;
+    border: solid black 3px;
+
+}
+
+.food__card img {
+    height: 300px;
+    width: 250px;
+}
+
+.section-two__button {
+    margin-top: 20px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.section-three {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 5px;
+
+}
+
+.section-three__table {
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+
+}
+
+.section-three button {
+    background-color: greenyellow;
+    color: black;
+    border: none;
+    width: 120%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 5px;
+ 
+
+}
